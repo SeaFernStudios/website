@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="620" height="240" viewBox="360 190 620 240" role="img" aria-label="SeaFern Studios">
 <style>@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;800&amp;display=swap');</style>
-<text x="380" y="336" font-family="'Manrope', sans-serif" font-weight="800" font-size="150" letter-spacing="-3" fill="#eef2f4">Sea<tspan fill="#8fd6c4">Fern</tspan></text>
-<text x="388" y="410" font-family="'Manrope', sans-serif" font-weight="500" font-size="36" letter-spacing="22" fill="#a9c3cc">STUDIOS</text>
+<text x="380" y="336" font-family="'Manrope', sans-serif" font-weight="800" font-size="150" letter-spacing="-3" fill="#0f2433">Sea<tspan fill="#2e6f8e">Fern</tspan></text>
+<text x="388" y="410" font-family="'Manrope', sans-serif" font-weight="500" font-size="36" letter-spacing="22" fill="#3d5a66">STUDIOS</text>
 </svg>
