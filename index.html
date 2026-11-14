@@ -198,6 +198,22 @@
       text-align: center;
     }
 
+    footer .links {
+      display: flex;
+      justify-content: center;
+      gap: 28px;
+      margin-bottom: 14px;
+    }
+
+    footer .links a {
+      color: var(--muted);
+      font-size: 0.85rem;
+      letter-spacing: 0.08em;
+      text-decoration: none;
+    }
+
+    footer .links a:hover { color: var(--mint); }
+
     @media (max-width: 760px) {
       .studio { padding: 48px 0 36px; }
       .project { grid-template-columns: 1fr; gap: 32px; text-align: center; }
@@ -318,7 +334,14 @@
       </article>
     </main>
 
-    <footer>© 2026 SeaFern Studios</footer>
+    <footer>
+      <nav class="links">
+        <a href="https://www.youtube.com/@SeaFernStudios" target="_blank" rel="noopener">YouTube</a>
+        <a href="https://discord.gg/ggJR7fdqC" target="_blank" rel="noopener">Discord</a>
+        <a href="mailto:info@seafernstudios.com">Contact</a>
+      </nav>
+      © 2026 SeaFern Studios
+    </footer>
   </div>
 </body>
 </html>
